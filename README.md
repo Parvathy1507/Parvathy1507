@@ -29,7 +29,7 @@ location: Kiwale, Pune, Maharashtra, India
 currently_working_on: Python
 currently_learning: Java
 ask_me_about: My skills
-fun_fact:I’m the kind of person who keeps debugging until I can finally say, “YES, DONE!” 
+fun_fact: I’m the kind of person who keeps debugging until I can finally say, “YES, DONE!” 
 ```
 
 - 🔭 I'm currently working on **PYTHON**
