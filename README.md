@@ -25,19 +25,19 @@
 ```yaml
 name: Parvathy Jayakumar
 role: Student
-location: Kiwale, India
-currently_working_on: PROJECT_NAME_HERE
-currently_learning: SKILLS_YOU_ARE_LEARNING_HERE
-ask_me_about: YOUR_TOPICS_HERE
-fun_fact: YOUR_FUN_FACT_HERE
+location: Kiwale, Pune, Maharashtra, India
+currently_working_on: Python
+currently_learning: Java
+ask_me_about: My skills
+fun_fact:I’m the kind of person who keeps debugging until I can finally say, “YES, DONE!” 
 ```
 
-- 🔭 I'm currently working on **PROJECT_NAME_HERE**
-- 🌱 I'm currently learning **SKILLS_YOU_ARE_LEARNING_HERE**
+- 🔭 I'm currently working on **PYTHON**
+- 🌱 I'm currently learning **JAVA**
 - 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **YOUR_TOPICS_HERE**
-- 📫 How to reach me: **YOUR_EMAIL_HERE@gmail.com**
-- ⚡ Fun fact: **YOUR_FUN_FACT_HERE**
+- 💬 Ask me about **MY SKILLS**
+- 📫 How to reach me: **parvathyjay07@gmail.com**
+- ⚡ Fun fact: **I’m the kind of person who keeps debugging until I can finally say, “YES, DONE!”**
 
 <br/>
 
