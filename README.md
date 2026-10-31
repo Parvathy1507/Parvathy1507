@@ -90,7 +90,7 @@ goal: Become a better developer every day
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parvathy1507&bg_color=0d1117&color=6a11cb&line=2575fc&point=ffffff&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parvathy1507&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
 
