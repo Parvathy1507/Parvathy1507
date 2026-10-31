@@ -96,26 +96,23 @@ goal: Become a better developer every day
 
 </div>
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <div align="center">
 
+I'm always open to connecting with fellow developers, learning new things, and collaborating on interesting projects.
+
+<br/>
+
 <a href="mailto:parvathyjay07@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-6A11CB?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://github.com/Parvathy1507">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-2575FC?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Parvathy1507&color=6a11cb&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
-
-**✨ Thanks for visiting my profile! Keep learning, keep building! ✨**
+**Let's learn, build, and grow together!** 🚀
 
 </div>
