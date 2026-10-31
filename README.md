@@ -86,11 +86,13 @@ goal: Become a better developer every day
 
 </div>
 
-## 📈 Contribution Activity
+## 📈 My GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parvathy1507&bg_color=0d1117&color=ffffff&line=6a11cb&point=2575fc&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
+<a href="https://github.com/Parvathy1507">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parvathy1507&theme=tokyonight" width="100%" />
+</a>
 
 </div>
 
