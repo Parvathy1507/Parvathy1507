@@ -107,4 +107,20 @@ goal: Become a better developer every day
 
 <br/>
 
-<a href="mailto:parvathyjay07@gmail.com" target="_blank
+<a href="mailto:parvathyjay07@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-6A11CB?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email"/>
+</a>
+&nbsp;
+<a href="https://github.com/Parvathy1507">
+  <img src="https://img.shields.io/badge/GITHUB-Visit%20My%20Profile-2575FC?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/parvathy-jayakumar-303181384/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+**💜 Let's connect, collaborate, and create something amazing!**
+
+</div>
