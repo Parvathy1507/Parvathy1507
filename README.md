@@ -100,19 +100,20 @@ goal: Become a better developer every day
 
 <div align="center">
 
-I'm always open to connecting with fellow developers, learning new things, and collaborating on interesting projects.
+<p>I'm always happy to connect with developers, exchange ideas, and explore exciting opportunities.</p>
 
 <br/>
 
-<a href="mailto:parvathyjay07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-6A11CB?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:parvathyjay07@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-6A11CB?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email"/>
 </a>
-<a href="https://github.com/Parvathy1507">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-2575FC?style=for-the-badge&logo=github&logoColor=white" />
+&nbsp;
+<a href="https://github.com/Parvathy1507" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-Visit%20My%20Profile-2575FC?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub"/>
 </a>
 
 <br/><br/>
 
-**Let's learn, build, and grow together!** 🚀
+**💜 Let's connect, collaborate, and create something amazing!**
 
 </div>
